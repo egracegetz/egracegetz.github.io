@@ -20,3 +20,6 @@ format:
 
 editor: visual
 
+publish:
+  github-pages:
+    branch: gh-pages
