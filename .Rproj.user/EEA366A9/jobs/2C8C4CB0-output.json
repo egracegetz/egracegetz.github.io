@@ -1,0 +1,6 @@
+[1,"==> quarto preview index.qmd --to html --no-watch-inputs --no-browse\n\n"]
+[1,"pandoc \n  to: html\n  output-file: index.html\n  standalone: true\n  title-prefix: Emma Getz\n  section-divs: true\n  html-math-method: mathjax\n  wrap: none\n  default-image-extension: png\n  toc: false\n  variables: {}\n  \nmetadata\n  document-css: false\n  link-citations: true\n  date-format: long\n  lang: en\n  theme: cosmo\n  title: Welcome!\n  \n"]
+[1,"WARN: Unable to resolve link target: about.qmd\nWARN: Unable to resolve link target: projects.qmd\n"]
+[1,"Output created: _site\\index.html\n\nPreparing to preview\n\nWatching files for changes\nBrowse at http://localhost:5031/\n"]
+[1,"WARN: Unable to resolve link target: about.qmd\nWARN: Unable to resolve link target: projects.qmd\n"]
+[1,"GET: /\n"]
