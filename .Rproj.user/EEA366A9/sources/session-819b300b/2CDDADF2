@@ -3,7 +3,7 @@
     "path": "~/egracegetzwebsite/index.qmd",
     "project_path": "index.qmd",
     "type": "quarto_markdown",
-    "hash": "1259518775",
+    "hash": "4057180625",
     "contents": "",
     "dirty": false,
     "created": 1763657342890.0,
@@ -19,15 +19,15 @@
         "scrollLine": "0",
         "docOutlineVisible": "1",
         "rmdVisualCollapsedChunks": "",
-        "rmdVisualModeLocation": "296:79.33333587646484",
+        "rmdVisualModeLocation": "316:64",
         "docOutlineSize": "65"
     },
     "folds": "",
-    "lastKnownWriteTime": 1763659152,
+    "lastKnownWriteTime": 1763664875,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1763659152272,
+    "last_content_update": 1763664875041,
     "read_only": false,
     "read_only_alternatives": []
 }
