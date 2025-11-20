@@ -1,0 +1,25 @@
+project:
+  type: website
+  output-dir: .
+
+website:
+  title: "Emma Getz"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About Me
+      - href: portfolio.qmd
+        text: Portfolio
+
+format:
+  html:
+    theme:
+      - slate
+      - brand
+    css: styles.css
+    toc: true
+
+editor: visual
+
