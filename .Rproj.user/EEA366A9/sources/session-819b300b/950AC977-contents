@@ -11,6 +11,7 @@ website:
         text: About
       - href: projects.qmd
         text: Projects
+
 format:
   html:
     theme: cosmo
