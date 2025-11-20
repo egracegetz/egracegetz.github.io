@@ -1,11 +1,7 @@
 ---
-title: "egracegetzwebsite"
+title: "Home"
 ---
 
-This is a Quarto website.
+# Hi, I'm Emma! 
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+I'm a senior at Appalachian State University, majoring in Public Health and minoring in Statistics. I'm passionate about biostatistics, rural health, and health behavior. On this site, you'll find examples of my projects, academic work, and research.
