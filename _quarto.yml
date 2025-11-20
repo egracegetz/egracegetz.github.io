@@ -1,5 +1,6 @@
 project:
   type: website
+  output-dir: .
 
 website:
   title: "Emma Getz"
@@ -8,9 +9,9 @@ website:
       - href: index.qmd
         text: Home
       - href: about.qmd
-        text: About Me\
-      - text: Portfolio
-        href: portfolio.qmd
+        text: About Me
+      - href: portfolio.qmd
+        text: Portfolio
 
 format:
   html:
@@ -22,6 +23,3 @@ format:
 
 editor: visual
 
-publish:
-  github-pages:
-    branch: gh-pages
