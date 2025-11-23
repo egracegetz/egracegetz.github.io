@@ -10,66 +10,61 @@ I'm currently completing my Public Health degree at Appalachian State University
 
 My research interests focus on rural health and health behavior, particularly understanding and quantifying how rurality influences personal health choices and using this knowledge to reduce health disparities. I am also interested in applying statistical methods to evaluate innovative technological tools that improve healthcare access in hard-to-reach areas. These interests have been shaped by my coursework and extracurricular experiences.
 
-## Academic & Professional Highlights
+Below are some of the highlights of my academic and professional journey:
 
 ::: {.about-card}
 <div style="flex: 2;">
-**Public Health Departmental Honors Program**  
-[Honors Thesis](https://phes.appstate.edu/academic-programs/public-health/public-health-student-resources/departmental-honors-public-health)  
+[Public Health Departmental Honors Program](https://phes.appstate.edu/academic-programs/public-health/public-health-student-resources/departmental-honors-public-health): Honors Thesis
 
-For my Honors thesis, I researched tick-borne illness prevention among long-distance Appalachian Trail hikers. This project involved designing a study from the ground up, including developing a survey, analyzing data, and authoring a formal manuscript. I established a professional partnership with the [Appalachian Trail Conservancy](https://appalachiantrail.org), conducted a learning session on tick-borne illness at their Damascus Trail Center, and contributed a [blog post on tick safety](https://appalachiantrail.org/news-stories/tick-smart-trail-tips/).
+For my Honors thesis, I researched tick-borne illness prevention among long-distance Appalachian Trail hikers. This project involved designing a study from the ground up, including developing a survey, analyzing data, and authoring a formal manuscript. I established a professional partnership with the [Appalachian Trail Conservancy](https://appalachiantrail.org/?campaignid=21861446043&adgroupid=169528959243&adid=719572099833&gad_source=1&gad_campaignid=21861446043&gbraid=0AAAAAD-wfPlcBZZmlM_Iu3XQf4GwT1d_0&gclid=CjwKCAiA_orJBhBNEiwABkdmjBRhG6actlAh4Pnzp8M4XufR_68EMpWW9Lql6XaZc0QpHp1ERUqykhoCLEQQAvD_BwE), conducted a learning session on tick-borne illness at their Damascus Trail Center, and contributed a [blog post on tick safety](https://appalachiantrail.org/news-stories/tick-smart-trail-tips/) for their website. This experience combined my research interests with practical application, culminating in the successful defense of my thesis.
 </div>
 <div style="flex: 1;">
-<img src="images/ticktalk.JPG" alt="Honors Thesis" />
+<img src="images/ticktalk.JPG" alt="Honors Thesis" style="width:180px;" />
 </div>
 :::
 
 ::: {.about-card}
 <div style="flex: 2;">
-**Public Health AmeriCorps Fellowship**  
-[Evaluation Team Lead & Lead Fellow](https://phes.appstate.edu/americorps)  
+[Public Health AmeriCorps](https://phes.appstate.edu/americorps) Fellowship: Evaluation Team Lead and Lead Fellow
 
-As evaluation team lead, I guided a team evaluating a public health intervention focused on rural mental health and analyzed program data to assess outcomes. Additionally, I authored an abstract based on our evaluation, presented the findings at the [2025 NC Data Summit](https://ncpha.memberclicks.net/nc-public-health-data-summit), and attended the 2025 [NACCHO Prep Summit](https://www.preparednesssummit.org/home).  
+As evaluation team lead, I guided a team evaluating a public health intervention focused on rural mental health and analyzed program data to assess outcomes. This role strengthened my applied public health skills, data analysis expertise, and leadership abilities. Additionally, I authored an abstract based on our evaluation, presented the findings at the [2025 NC Data Summit](https://ncpha.memberclicks.net/nc-public-health-data-summit), and attended the 2025 [NACCHO Prep Summit](https://www.preparednesssummit.org/home).
 
-In my second fellowship year, I serve as the Lead Fellow, supporting members, coordinating conference opportunities, and acting as a liaison between members and staff.
+In my second fellowship year, I'm serving as the Lead Fellow. I focus on supporting members throughout their service terms, fostering professional development, coordinating conference opportunities, and serving as a liaison between members and program staff.
 </div>
 <div style="flex: 1;">
-<img src="images/ncpha.jpg" alt="AmeriCorps Fellowship" />
+<img src="images/ncpha.jpg" alt="AmeriCorps Fellowship" style="width:180px;" />
 </div>
 :::
 
 ::: {.about-card}
 <div style="flex: 2;">
-**MaineHealth Institute for Research**  
-[Research Intern](https://mhir.org/)  
+[MaineHealth Institute for Research](https://mhir.org/): Research Intern
 
-During the [Summer Undergraduate Research Program](https://mhir.org/education-training/undergraduate-summer-student-research-program/summer-student-program/), I collaborated with Dr. Kahsi Pedersen on a project characterizing profound autism within specialized inpatient psychiatric facilities. I analyzed 15 years of data, used data visualization techniques, authored a manuscript, and presented findings through a poster and 3-Minute Thesis presentation. I was honored to receive the Paul Gray Research Scholarship.
+During the [Summer Undergraduate Research Program](https://mhir.org/education-training/undergraduate-summer-student-research-program/summer-student-program/), I collaborated with Dr. Kahsi Pedersen on a project characterizing profound autism within specialized inpatient psychiatric facilities. My responsibilities included analyzing data from a 15-year study, utilizing data visualization techniques, authoring a manuscript for peer-reviewed publication, and presenting findings through a poster and a 3-Minute Thesis presentation. In this role, I learned about clinical research skills and strengthened my data analysis techniques. I was honored to receive the Paul Gray Research Scholarship to support this work.
 </div>
 <div style="flex: 1;">
-<img src="images/mhir.jpeg" alt="MaineHealth Research" />
+<img src="images/mhir.jpeg" alt="MaineHealth Research" style="width:180px;" />
 </div>
 :::
 
 ::: {.about-card}
 <div style="flex: 2;">
-**AppHealthCare**  
-[YRBS Volunteer](https://www.apphealthcare.com/)  
+[AppHealthCare](https://www.apphealthcare.com/): YRBS Volunteer
 
-Volunteering with AppHealthCare, I analyzed Youth Risk Behavior Survey data from six local schools, identifying patterns in youth risk behaviors across Western North Carolina. We created visualizations and summary reports for local stakeholders, informing public health strategies and supporting community decision-making.
+Volunteering with AppHealthCare, I analyzed Youth Risk Behavior Survey data from six local schools, identifying patterns in youth risk behaviors across Western North Carolina. We created visualizations and summary reports for local stakeholders, using data to inform public health strategies and support community decision-making.
 </div>
 <div style="flex: 1;">
-<img src="images/apphealth.jfif" alt="AppHealthCare Volunteer" />
+<img src="images/apphealth.jfif" alt="AppHealthCare Volunteer" style="width:180px;" />
 </div>
 :::
 
 ::: {.about-card}
 <div style="flex: 2;">
-**Research Institute for Environment, Energy, and Economics**  
-[Research Assistantship](https://rieee.appstate.edu/)  
+[Research Institute for Environment, Energy, and Economics](https://rieee.appstate.edu/): Research Assistantship
 
-As a Research Assistant at Appalachian State University’s Research Institute for Environment, Energy, and Economics, I collaborated with a team analyzing crisis text conversations about eco-anxiety and climate worry. I contributed to a formal manuscript titled [“Eco-Anxiety, Climate Concern, and Fatalistic Outlooks”](https://www.sciencedirect.com/science/article/pii/S2667278225000094), published in the Journal of Climate Change and Health.
+As a Research Assistant at Appalachian State University’s Research Institute for Environment, Energy, and Economics I collaborated with a team to analyze crisis text conversations, focusing on themes of eco-anxiety and climate worry. Through thematic analysis, I contributed to identifying and interpreting patterns in these critical discussions, providing insights into the mental health impacts of environmental concerns. I contributed to a formal manuscript based on this work titled [“Eco-Anxiety, Climate Concern, and Fatalistic Outlooks: Insights from U.S. Crisis Text Conversations on Climate Distress”](https://www.sciencedirect.com/science/article/pii/S2667278225000094)which is currently published in the Journal of Climate Change and Health.
 </div>
 <div style="flex: 1;">
-<img src="images/ecoanxiety.png" alt="Eco-Anxiety Research" />
+<img src="images/ecoanxiety.png" alt="Eco-Anxiety Research" style="width:180px;" />
 </div>
 :::
