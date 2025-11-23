@@ -3,3 +3,73 @@ title: "About Me"
 format: html
 editor: visual
 ---
+
+[**View My CV**](cv.pdf)
+
+I'm currently completing my Public Health degree at Appalachian State University, where academic work, extracurricular activities, and research have fostered a strong passion for the field. Early in my major, I discovered a particular interest in the statistical applications of public health and quantitative methods. To build a strong foundation for biostatistical work, I pursued a Statistics minor and took foundational mathematics courses to strengthen my understanding of statistical and mathematical concepts. I've really enjoyed combining quantitative and qualitative approaches throughout my studies, and applying these skills to real-world projects has deepened both my understanding of and commitment to using biostatistics to address public health challenges.
+
+My research interests focus on rural health and health behavior, particularly understanding and quantifying how rurality influences personal health choices and using this knowledge to reduce health disparities. I am also interested in applying statistical methods to evaluate innovative technological tools that improve healthcare access in hard-to-reach areas. These interests have been shaped by my coursework and extracurricular experiences.
+
+## Academic & Professional Highlights
+
+::: {.about-card}
+<div style="flex: 2;">
+**Public Health Departmental Honors Program**  
+[Honors Thesis](https://phes.appstate.edu/academic-programs/public-health/public-health-student-resources/departmental-honors-public-health)  
+
+For my Honors thesis, I researched tick-borne illness prevention among long-distance Appalachian Trail hikers. This project involved designing a study from the ground up, including developing a survey, analyzing data, and authoring a formal manuscript. I established a professional partnership with the [Appalachian Trail Conservancy](https://appalachiantrail.org), conducted a learning session on tick-borne illness at their Damascus Trail Center, and contributed a [blog post on tick safety](https://appalachiantrail.org/news-stories/tick-smart-trail-tips/).
+</div>
+<div style="flex: 1;">
+<img src="images/ticktalk.JPG" alt="Honors Thesis" />
+</div>
+:::
+
+::: {.about-card}
+<div style="flex: 2;">
+**Public Health AmeriCorps Fellowship**  
+[Evaluation Team Lead & Lead Fellow](https://phes.appstate.edu/americorps)  
+
+As evaluation team lead, I guided a team evaluating a public health intervention focused on rural mental health and analyzed program data to assess outcomes. Additionally, I authored an abstract based on our evaluation, presented the findings at the [2025 NC Data Summit](https://ncpha.memberclicks.net/nc-public-health-data-summit), and attended the 2025 [NACCHO Prep Summit](https://www.preparednesssummit.org/home).  
+
+In my second fellowship year, I serve as the Lead Fellow, supporting members, coordinating conference opportunities, and acting as a liaison between members and staff.
+</div>
+<div style="flex: 1;">
+<img src="images/ncpha.jpg" alt="AmeriCorps Fellowship" />
+</div>
+:::
+
+::: {.about-card}
+<div style="flex: 2;">
+**MaineHealth Institute for Research**  
+[Research Intern](https://mhir.org/)  
+
+During the [Summer Undergraduate Research Program](https://mhir.org/education-training/undergraduate-summer-student-research-program/summer-student-program/), I collaborated with Dr. Kahsi Pedersen on a project characterizing profound autism within specialized inpatient psychiatric facilities. I analyzed 15 years of data, used data visualization techniques, authored a manuscript, and presented findings through a poster and 3-Minute Thesis presentation. I was honored to receive the Paul Gray Research Scholarship.
+</div>
+<div style="flex: 1;">
+<img src="images/mhir.jpeg" alt="MaineHealth Research" />
+</div>
+:::
+
+::: {.about-card}
+<div style="flex: 2;">
+**AppHealthCare**  
+[YRBS Volunteer](https://www.apphealthcare.com/)  
+
+Volunteering with AppHealthCare, I analyzed Youth Risk Behavior Survey data from six local schools, identifying patterns in youth risk behaviors across Western North Carolina. We created visualizations and summary reports for local stakeholders, informing public health strategies and supporting community decision-making.
+</div>
+<div style="flex: 1;">
+<img src="images/apphealth.jfif" alt="AppHealthCare Volunteer" />
+</div>
+:::
+
+::: {.about-card}
+<div style="flex: 2;">
+**Research Institute for Environment, Energy, and Economics**  
+[Research Assistantship](https://rieee.appstate.edu/)  
+
+As a Research Assistant at Appalachian State University’s Research Institute for Environment, Energy, and Economics, I collaborated with a team analyzing crisis text conversations about eco-anxiety and climate worry. I contributed to a formal manuscript titled [“Eco-Anxiety, Climate Concern, and Fatalistic Outlooks”](https://www.sciencedirect.com/science/article/pii/S2667278225000094), published in the Journal of Climate Change and Health.
+</div>
+<div style="flex: 1;">
+<img src="images/ecoanxiety.png" alt="Eco-Anxiety Research" />
+</div>
+:::

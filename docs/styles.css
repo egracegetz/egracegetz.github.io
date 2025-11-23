@@ -1,6 +1,6 @@
 /* navbar override */
 .navbar, .navbar .nav-link {
-  background-color: #b71d63 !important; /* your dark pink */
+  background-color: #b71d63 !important; /*  dark pink */
   color: white !important;              /* navbar text */
 }
 
@@ -46,3 +46,20 @@ h1, h2, h3 {
   text-align: center;
 }
 
+/* About page cards */
+.about-card {
+  background-color: white;
+  padding: 1rem;
+  border-radius: 10px;
+  box-shadow: 0 1px 6px rgba(0,0,0,0.07);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 1rem;
+  margin-bottom: 1.5rem;
+}
+
+.about-card img {
+  max-width: 150px; /* adjust as needed */
+  border-radius: 10px;
+}
