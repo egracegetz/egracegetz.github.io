@@ -12,3 +12,10 @@ website:
         text: About Me
       - href: projects.qmd
         text: Projects
+        
+format:
+  html:
+    theme:
+      light: flatly
+    css: styles.css
+    toc: false

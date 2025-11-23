@@ -1,11 +1,62 @@
 ---
 title: "Welcome!"
+format: html
 ---
 
-# Hi, I'm Emma!
+::::: {style="display: flex; align-items: center; gap: 2rem; margin-bottom: 2rem;"}
+::: {style="flex: 0 0 220px;"}
+<img src="images/EGetz2025.jpg" alt="Emma Getz headshot" style="width: 220px; border-radius: 12px;"/>
+:::
 
-I'm a senior at Appalachian State University majoring in Public Health and minoring in Statistics. I'm excited about biostatistics, rural health, and health behavior. On this site, you'll find examples of my projects, academic work, and research.
+::: {.intro-card style="flex: 1;"}
+<h2 style="font-size: 2rem; font-weight: bold;">
 
--   [**About Me**](about.qmd)
+Hi, I'm Emma!
 
--   [**Portfolio**](portfolio.qmd)
+</h2>
+
+<p>I'm a senior at Appalachian State University majoring in Public Health and minoring in Statistics. I'm excited about biostatistics, rural health, and health behavior. On this site, you'll find examples of my projects, academic work, and research.</p>
+
+<br>
+
+**→ [About Me](about.qmd)**\
+**→ [Portfolio](portfolio.qmd)**\
+**→ [My CV](cv.pdf)**
+:::
+:::::
+
+------------------------------------------------------------------------
+
+## What I’m Interested In
+
+:::::: {style="display: flex; gap: 1.5rem; flex-wrap: wrap;"}
+::: {.feature-card style="flex: 1; min-width: 200px;"}
+**Biostatistics**\
+
+<p>Statistical methods for intervention evaluation, structural equation modeling, and data for public health decisions.</p>
+:::
+
+::: {.feature-card style="flex: 1; min-width: 200px;"}
+**Health Behavior**\
+
+<p>Understanding how people make health decisions and how to support healthier choices.</p>
+:::
+
+::: {.feature-card style="flex: 1; min-width: 200px;"}
+**Rural Health**\
+
+<p>Addressing health disparities and using innovative technology to expand healthcare access.</p>
+:::
+::::::
+
+------------------------------------------------------------------------
+
+::: {style="text-align: center; margin-top: 3rem;"}
+<img src="images/BCHSlogo.png" alt="Health Sciences logo" style="max-width: 350px;"/>
+:::
+
+::: contact-banner
+I’d love to hear from you!\
+[egracegetz\@gmail.com]{#email-text style="color: white; text-decoration: underline; cursor: pointer;" onclick="navigator.clipboard.writeText('egracegetz@gmail.com')"}\
+\| connect on <a href="https://www.linkedin.com/in/emma-getz-7aa30821b" style="color: white; text-decoration: underline;">LinkedIn</a>
+:::
