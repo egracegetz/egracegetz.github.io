@@ -99,17 +99,6 @@ a:hover {
   text-decoration: underline;
 }
 
-/* site-wide gradient bottom ribbon */
-.bottom-ribbon {
-  background: linear-gradient(to right, #b71d63, #d84a87); /* dark → lighter pink gradient */
-  color: white;
-  text-align: center;
-  padding: 0.9rem;
-  font-size: 1.1rem;
-  margin-top: 3rem;
-  border-radius: 10px 10px 0 0;
-}
-
 /* full-width footer wrapper to override Quarto/Bootstrap container */
 .footer-wrapper {
   width: 100%;
@@ -117,17 +106,15 @@ a:hover {
   margin: 0;
 }
 
-/* gradient bottom ribbon */
+/* simple dark-pink bottom ribbon */
 .bottom-ribbon {
   width: 100%;
-  background: linear-gradient(to right, #b71d63, #ffffff);
+  background-color: #b71d63; /* dark pink */
   color: white;
   text-align: center;
-  padding: 1rem 0;
-  font-size: 1.1rem;
+  padding: 0.5rem 0; /* HALF the height of before */
+  font-size: 1rem;
   margin-top: 2rem;
-  border-radius: 12px 12px 0 0;
-
-  /* override Bootstrap defaults */
+  border-radius: 10px 10px 0 0;
   display: block;
 }
