@@ -3,25 +3,23 @@ title: "Welcome!"
 format: html
 ---
 
-::::: {style="display: flex; align-items: center; gap: 2rem; margin-bottom: 2rem;"}
+::::: {style="display: flex; align-items: center; gap: 1.5rem; margin-bottom: 1.5rem;"}
 ::: {style="flex: 0 0 220px;"}
 <img src="images/EGetz2025.jpg" alt="Emma Getz headshot" style="width: 220px; border-radius: 12px;"/>
 :::
 
-::: {.intro-card style="flex: 1;"}
-<h2 style="font-size: 2rem; font-weight: bold;">
-
+::: {.intro-card style="flex: 1; padding: 1rem 1.5rem;"}
+<h2 style="font-size: 2rem; font-weight: bold; margin-bottom: 0.5rem; color: #9e1c57;">
 Hi, I'm Emma!
-
 </h2>
 
-<p>I'm a senior at Appalachian State University majoring in Public Health and minoring in Statistics. I'm excited about biostatistics, rural health, and health behavior. On this site, you'll find examples of my projects, academic work, and research.</p>
+<p style="margin-bottom: 0.5rem;">I'm a senior at Appalachian State University majoring in Public Health and minoring in Statistics. I'm excited about biostatistics, rural health, and health behavior. On this site, you'll find examples of my projects, academic work, and research.</p>
 
-<br>
-
-**→ [About Me](about.qmd)**\
-**→ [Portfolio](portfolio.qmd)**\
-**→ [My CV](cv.pdf)**
+<p style="margin-bottom: 0;">
+**→ <a href="about.qmd" style="color: #9e1c57; text-decoration: none;">About Me</a>**<br>
+**→ <a href="portfolio.qmd" style="color: #9e1c57; text-decoration: none;">Portfolio</a>**<br>
+**→ <a href="cv.pdf" style="color: #9e1c57; text-decoration: none;">My CV</a>**
+</p>
 :::
 :::::
 
@@ -29,34 +27,32 @@ Hi, I'm Emma!
 
 ## What I’m Interested In
 
-:::::: {style="display: flex; gap: 1.5rem; flex-wrap: wrap;"}
+:::::: {style="display: flex; gap: 1rem; flex-wrap: wrap;"}
 ::: {.feature-card style="flex: 1; min-width: 200px;"}
 **Biostatistics**\
-
 <p>Statistical methods for intervention evaluation, structural equation modeling, and data for public health decisions.</p>
 :::
 
 ::: {.feature-card style="flex: 1; min-width: 200px;"}
 **Health Behavior**\
-
 <p>Understanding how people make health decisions and how to support healthier choices.</p>
 :::
 
 ::: {.feature-card style="flex: 1; min-width: 200px;"}
 **Rural Health**\
-
 <p>Addressing health disparities and using innovative technology to expand healthcare access.</p>
 :::
 ::::::
 
 ------------------------------------------------------------------------
 
-::: {style="text-align: center; margin-top: 3rem;"}
-<img src="images/BCHSlogo.png" alt="Health Sciences logo" style="max-width: 350px;"/>
+::: {style="text-align: center; margin-top: 2.5rem;"}
+<img src="images/BCHSlogo.png" alt="Health Sciences logo" style="max-width: 500px;"/>
 :::
 
-::: contact-banner
-I’d love to hear from you!\
-[egracegetz\@gmail.com]{#email-text style="color: white; text-decoration: underline; cursor: pointer;" onclick="navigator.clipboard.writeText('egracegetz@gmail.com')"}\
-\| connect on <a href="https://www.linkedin.com/in/emma-getz-7aa30821b" style="color: white; text-decoration: underline;">LinkedIn</a>
+::: contact-banner style="background-color: #9e1c57; color: white; padding: 2rem; text-align: center;"
+I’d love to hear from you!<br>
+<a href="mailto:egracegetz@gmail.com" style="color: white; text-decoration: underline;">egracegetz@gmail.com</a> | <a href="https://www.linkedin.com/in/emma-getz-7aa30821b" style="color: white; text-decoration: underline;">LinkedIn</a>
 :::
+
+
