@@ -1,3 +1,14 @@
+/* navbar override */
+.navbar, .navbar .nav-link {
+  background-color: #b71d63 !important; /* your dark pink */
+  color: white !important;              /* navbar text */
+}
+
+.navbar .nav-link:hover {
+  color: #ffb3c6 !important; /* slightly lighter pink on hover */
+}
+
+/* existing styles */
 body {
   background-color: #ffeef7; /* pale pink */
 }
