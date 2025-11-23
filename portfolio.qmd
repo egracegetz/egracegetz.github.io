@@ -3,7 +3,7 @@ title: "Portfolio"
 format: html
 ---
 
-# Click the links below to explore selected work samples!
+## Click the links below to explore selected work samples!
 
 ::: portfolio-card
 ## Research

@@ -87,3 +87,14 @@ h1, h2, h3 {
   color: #ffb3c6;
 }
 
+/* global link styles */
+a {
+  color: #b71d63;      /* dark pink for all links */
+  font-weight: 600;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #ffb3c6;      /* lighter pink hover */
+  text-decoration: underline;
+}
