@@ -5,7 +5,6 @@ project:
 website:
   title: "Emma Grace Getz"
   navbar:
-    background: "#9e1c57"
     left:
       - href: index.qmd
         text: Home
@@ -13,7 +12,7 @@ website:
         text: About Me
       - href: portfolio.qmd
         text: Portfolio
-        
+
 format:
   html:
     theme:
