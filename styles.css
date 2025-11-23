@@ -63,3 +63,27 @@ h1, h2, h3 {
   max-width: 230px; /* slightly larger */
   border-radius: 10px;
 }
+
+/* portfolio page stacked cards */
+.portfolio-card {
+  background-color: white;
+  padding: 1.2rem;
+  border-radius: 12px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  margin-bottom: 1.5rem;
+}
+
+.portfolio-card h2 {
+  color: #b71d63; /* dark pink headings */
+  margin-top: 0;
+}
+
+.portfolio-card a {
+  color: #b71d63; /* link matches your accent color */
+  font-weight: 600;
+}
+
+.portfolio-card a:hover {
+  color: #ffb3c6;
+}
+

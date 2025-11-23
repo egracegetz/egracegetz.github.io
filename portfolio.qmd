@@ -1,5 +1,45 @@
 ---
 title: "Portfolio"
 format: html
-editor: visual
 ---
+
+# Click the links below to explore selected work samples!
+
+::: portfolio-card
+## Research
+
+-   [Epidemiology Honors Report - Alcohol Consumption Trends Among Adults in the United States and, D.C.](epihonorsreport.pdf)
+-   [Departmental Honors Thesis Prospectus](thesisprospectus.pdf)
+-   [Celebration of Student Research and Creative Endeavors Poster](researchday.JPG)
+-   [Hurricane Helene Case Study: Polk County, NC](polk.pdf)
+:::
+
+::: portfolio-card
+## Data Analysis
+
+-   [Impact of Student Employment on Extracurricular Engagement](biostatsanalysis.pdf)
+-   [NCPHA Abstract - Evaluation of the RAPID Psychological First Aid Implementation in Rural Appalachian Western NC](pfaeval.pdf)
+:::
+
+::: portfolio-card
+## Applied Public Health Work
+
+-   [After Action Report Outline for Hurricane Helene in Western NC](aar.pdf)
+-   [Homelessness Calendar - Hospitality House](homelessness.pdf)
+-   [Maternal Health Intervention Plan - Maternal Exercise Program to Coosa County](coosa.pdf)
+-   [Evaluation Plan - Persons with Aphasia Training Dogs Program](patd.pdf)
+:::
+
+::: portfolio-card
+## Publications
+
+-   [Eco-anxiety, climate concern, and fatalistic outlooks: Insights from U.S. crisis text conversations on climate distress](https://www.sciencedirect.com/science/article/pii/S2667278225000094)
+-   [Tick Smart: 5 Tips for Hikers to Prevent Tick-Borne Illness](https://appalachiantrail.org/news-stories/tick-smart-trail-tips/)
+:::
+
+::: portfolio-card
+## Creative Endeavors
+
+-   [My Small Business – Emmalinalino](https://www.instagram.com/emmalinalino/?hl=en)
+-   [The Appalachian Portfolio – Graphics](https://theappalachianonline.com/staff_name/emma-getz/)
+:::
