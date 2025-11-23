@@ -4,8 +4,8 @@ title: "Welcome!"
 
 # Hi, I'm Emma!
 
-I'm a senior at Appalachian State University majoring in Public Health and minoring in Statistics. I'm excited about biostatistics, rural health, and health behavior. On this site, you'll find examples of my projects, academic work, and research. HELLO!
+I'm a senior at Appalachian State University majoring in Public Health and minoring in Statistics. I'm excited about biostatistics, rural health, and health behavior. On this site, you'll find examples of my projects, academic work, and research.
 
--   **About Me**
+-   [**About Me**](about.qmd)
 
--   **Portfolio**
+-   [**Portfolio**](portfolio.qmd)
