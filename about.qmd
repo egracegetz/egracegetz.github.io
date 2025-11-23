@@ -6,11 +6,11 @@ editor: visual
 
 [**View My CV**](cv.pdf)
 
-I'm currently completing my Public Health degree at Appalachian State University, where academic work, extracurricular activities, and research have fostered a strong passion for the field. Early in my major, I discovered a particular interest in the statistical applications of public health and quantitative methods. To build a strong foundation for biostatistical work, I pursued a Statistics minor and took foundational mathematics courses to strengthen my understanding of statistical and mathematical concepts. I've really enjoyed combining quantitative and qualitative approaches throughout my studies, and applying these skills to real-world projects has deepened both my understanding of and commitment to using biostatistics to address public health challenges.
+I'm completing my Public Health degree at Appalachian State University, where my coursework, research, and extracurriculars have led to a strong passion for the field. Early on in my major, I developed a particular interest in the statistical applications of public health, which led me to pursue a Statistics minor and foundational math courses to strengthen my quantitative skills. I enjoy combining quantitative and qualitative approaches and applying them to real-world projects, deepening my understanding of biostatistics and its role in addressing public health challenges.
 
-My research interests focus on rural health and health behavior, particularly understanding and quantifying how rurality influences personal health choices and using this knowledge to reduce health disparities. I am also interested in applying statistical methods to evaluate innovative technological tools that improve healthcare access in hard-to-reach areas. These interests have been shaped by my coursework and extracurricular experiences.
+My research interests focus on rural health and health behavior, I'm particularly interested in understanding and quantifying how rurality influences personal health choices. I'm also interested in using statistical methods to evaluate innovative technological tools that can improve healthcare access in hard-to-reach areas. These interests have been shaped by both my coursework and practical experiences.
 
-Below are some of the highlights of my academic and professional journey:
+## Academic and Professional Highlights:
 
 ::: {.about-card}
 <div style="flex: 2;">
