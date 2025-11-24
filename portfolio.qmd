@@ -17,7 +17,7 @@ format: html
 ::: portfolio-card
 ## Data Analysis
 
--   [Data Analysis using R - Analyzing Global Trends in Maternal Mortality](mmrproject.html) 
+-   [Data Analysis in R - Analyzing Global Trends in Maternal Mortality](mmrproject.html) 
 -   [Impact of Student Employment on Extracurricular Engagement](biostatsanalysis.pdf)
 -   [NCPHA Abstract - Evaluation of the RAPID Psychological First Aid Implementation in Rural Appalachian Western NC](pfaeval.pdf)
 :::
