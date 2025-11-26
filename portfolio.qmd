@@ -18,6 +18,7 @@ format: html
 ## Data Analysis
 
 -   [Data Analysis in R - Linear Regression for Patient Satisfaction Data](satisfaction.html)
+-   [Data Analysis in R - Hypothesis Testing Problem Set](problemset.html)
 -   [Data Analysis in R - Analyzing Global Trends in Maternal Mortality](mmrproject.html) 
 -   [Impact of Student Employment on Extracurricular Engagement](biostatsanalysis.pdf)
 -   [NCPHA Abstract - Evaluation of the RAPID Psychological First Aid Implementation in Rural Appalachian Western NC](pfaeval.pdf)
