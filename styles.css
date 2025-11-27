@@ -1,6 +1,6 @@
 /* navbar override */
 .navbar, .navbar .nav-link {
-  background-color: #851547 !important; /*  dark pink */
+  background-color: #540a2b !important; /*  dark pink */
   color: white !important;              /* navbar text */
 }
 
@@ -15,12 +15,12 @@ body {
 
 /* headings */
 h1, h2, h3 {
-  color: #851547; /* darker rose pink */
+  color: #540a2b; /* darker rose pink */
 }
 
 /* contact banner */
 .contact-banner {
-  background-color: #851547;
+  background-color: #540a2b;
   color: white;
   padding: 1rem;
   text-align: center;
@@ -74,12 +74,12 @@ h1, h2, h3 {
 }
 
 .portfolio-card h2 {
-  color: #851547; /* dark pink headings */
+  color: #540a2b; /* dark pink headings */
   margin-top: 0;
 }
 
 .portfolio-card a {
-  color: #851547; /* link matches your accent color */
+  color: #540a2b; /* link matches your accent color */
   font-weight: 600;
 }
 
@@ -89,7 +89,7 @@ h1, h2, h3 {
 
 /* global link styles */
 a {
-  color: #851547;      /* dark pink for all links */
+  color: #540a2b;      /* dark pink for all links */
   font-weight: 600;
   text-decoration: none;
 }
@@ -109,7 +109,7 @@ a:hover {
 /* simple dark-pink bottom ribbon */
 .bottom-ribbon {
   width: 100%;
-  background-color: #851547; /* dark pink */
+  background-color: #540a2b; /* dark pink */
   color: white;
   text-align: center;
   padding: 0.5rem 0; /* HALF the height of before */
