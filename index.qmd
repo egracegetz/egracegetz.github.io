@@ -17,7 +17,7 @@ Hi, I'm Emma!
 
 <p style="margin-bottom: 0.5rem;">
 
-I recently graduated from Appalachian State University with a major in Public Health and minor in Statistics. I'm excited about biostatistics, rural health, and health behavior. On this site, you'll find examples of my projects, academic work, and research projects.
+I recently graduated from Appalachian State University with a major in Public Health and minor in Statistics. I'm excited about biostatistics, rural health, and health behavior. On this site, you'll find examples of my projects and academic work.
 
 </p>
 
