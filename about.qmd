@@ -1,14 +1,16 @@
 ---
-title: "About Me"
+title: "Professional Summary"
 format: html
 editor: visual
 ---
 
 **→** <a href="cv.pdf" style="color: #9e1c57; text-decoration: none;">View My CV</a><br>
 
-I'm completing my Public Health degree at Appalachian State University, where my coursework, research, and extracurriculars have led to a strong passion for the field. Early on in my major, I developed a particular interest in the statistical applications of public health, which led me to pursue a Statistics minor and foundational math courses to strengthen my quantitative skills. I enjoy combining quantitative and qualitative approaches and applying them to real-world projects, deepening my understanding of biostatistics and its role in addressing public health challenges.
+I'm a public health professional based in Chapel Hill, NC, with a background that bridges quantitative analysis and community-level work. I came into public health drawn to the question of how rurality shapes health outcomes and access to care, and that interest has carried through nearly everything I've done since. I've enjoyed working across public health domains, from evaluating a mental health intervention in Western NC to studying crisis service availability across the state.
 
-My research interests focus on rural health and health behavior, I'm particularly interested in understanding and quantifying how rurality influences personal health choices. I'm also interested in using statistical methods to evaluate innovative technological tools that can improve healthcare access in hard-to-reach areas. These interests have been shaped by both my coursework, research, and work experiences.
+What I've found along the way is a real interest in evaluation itself: understanding whether programs are working, and using data to make the case for what comes next. That's taken me through research settings as varied as psychiatric health data analysis, climate-related crisis text lines, and a study on disease prevention among Appalachian Trail hikers; each one sharpening how I think about turning data into something useful for the people making decisions.
+
+I'm currently looking for my next role in public health, ideally one where I can keep working in public health research grounded in real communities. More on my experience below.
 
 ## Academic and Professional Highlights:
 

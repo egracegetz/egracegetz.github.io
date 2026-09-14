@@ -17,13 +17,13 @@ Hi, I'm Emma!
 
 <p style="margin-bottom: 0.5rem;">
 
-I recently graduated from Appalachian State University with a major in Public Health and minor in Statistics. I'm excited about biostatistics, rural health, and health behavior. On this site, you'll find examples of my projects and academic work.
+I recently graduated from Appalachian State University with a B.S. in Public Health and a minor in Statistics. My background is in program evaluation, data analysis, and outcomes reporting, with a focus on rural health initiatives. On this site, you'll find examples of my research, evaluation work, and professional experience.
 
 </p>
 
 <p style="margin-bottom: 0;">
 
-**→** <a href="about.qmd" style="color: #9e1c57; text-decoration: none;">About Me</a><br> **→** <a href="portfolio.qmd" style="color: #9e1c57; text-decoration: none;">Portfolio</a><br> **→** <a href="cv.pdf" style="color: #9e1c57; text-decoration: none;">My CV</a>
+**→** <a href="about.qmd" style="color: #9e1c57; text-decoration: none;">Professional Summary</a><br> **→** <a href="portfolio.qmd" style="color: #9e1c57; text-decoration: none;">Portfolio</a><br> **→** <a href="cv.pdf" style="color: #9e1c57; text-decoration: none;">My CV</a>
 
 </p>
 :::
