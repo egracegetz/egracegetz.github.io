@@ -23,7 +23,7 @@ I recently graduated from Appalachian State University with a B.S. in Public Hea
 
 <p style="margin-bottom: 0;">
 
-**→** <a href="about.qmd" style="color: #9e1c57; text-decoration: none;">Professional Summary</a><br> **→** <a href="portfolio.qmd" style="color: #9e1c57; text-decoration: none;">Portfolio</a><br> **→** <a href="Getz_CV_2026.pdf" style="color: #9e1c57; text-decoration: none;">My CV</a>
+**→** <a href="about.qmd" style="color: #9e1c57; text-decoration: none;">Professional Summary</a><br> **→** <a href="portfolio.qmd" style="color: #9e1c57; text-decoration: none;">Portfolio</a><br> **→** <a href="publications.qmd" style="color: #9e1c57; text-decoration: none;">Publications</a><br> **→** <a href="Getz_CV_2026.pdf" style="color: #9e1c57; text-decoration: none;">My CV</a> 
 
 </p>
 :::
