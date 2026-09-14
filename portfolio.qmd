@@ -8,6 +8,7 @@ format: html
 ::: portfolio-card
 ## Research
 
+-   [Hospital Bypass Methods Review Summary Report](bypass.pdf)
 -   [Epidemiology Honors Report - Alcohol Consumption Trends Among Adults in the United States and, D.C.](epihonorsreport.pdf)
 -   [Departmental Honors Thesis Prospectus](thesisprospectus.pdf)
 -   [Celebration of Student Research and Creative Endeavors Poster](researchday.JPG)
@@ -18,7 +19,7 @@ format: html
 ## Data Analysis
 
 -   [Data Analysis in R - Linear Regression for Patient Satisfaction Data](satisfaction.html)
--   [Data Analysis in R - Hypothesis Testing Problem Set](problemset.html)
+-   [Data Analysis in R - Hypothesis Testing](problemset.html)
 -   [Data Analysis in R - Analyzing Global Trends in Maternal Mortality](mmrproject.html) 
 -   [Impact of Student Employment on Extracurricular Engagement](biostatsanalysis.pdf)
 -   [NCPHA Abstract - Evaluation of the RAPID Psychological First Aid Implementation in Rural Appalachian Western NC](pfaeval.pdf)
@@ -31,13 +32,6 @@ format: html
 -   [Homelessness Calendar - Hospitality House](homelessness.pdf)
 -   [Maternal Health Intervention Plan - Maternal Exercise Program to Coosa County](coosa.pdf)
 -   [Evaluation Plan - Persons with Aphasia Training Dogs Program](patd.pdf)
-:::
-
-::: portfolio-card
-## Publications
-
--   [Eco-anxiety, climate concern, and fatalistic outlooks: Insights from U.S. crisis text conversations on climate distress](https://www.sciencedirect.com/science/article/pii/S2667278225000094)
--   [Tick Smart: 5 Tips for Hikers to Prevent Tick-Borne Illness](https://appalachiantrail.org/news-stories/tick-smart-trail-tips/)
 :::
 
 ::: portfolio-card

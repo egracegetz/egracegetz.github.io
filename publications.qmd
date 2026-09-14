@@ -1,0 +1,28 @@
+---
+title: "Publications"
+format: html
+---
+
+**→** <a href="https://scholar.google.com/citations?hl=en&user=oFVidPEAAAAJ" style="color: #9e1c57; text-decoration: none;">View My Google Scholar Profile</a><br>
+
+## Peer-Reviewed
+
+::: portfolio-card
+**[Tick-Borne Disease Prevention in Long-Distance Appalachian Trail Hikers: A Health Belief Model Approach](https://pubmed.ncbi.nlm.nih.gov/42334346/)**
+
+*Wilderness & Environmental Medicine*
+:::
+
+::: portfolio-card
+**[Eco-anxiety, climate concern, and fatalistic outlooks: Insights from U.S. crisis text conversations on climate distress](https://www.sciencedirect.com/science/article/pii/S2667278225000094)**
+
+*The Journal of Climate Change and Health*
+:::
+
+## Non-Peer-Reviewed
+
+::: portfolio-card
+**[Tick Smart: 5 Tips for Hikers to Prevent Tick-Borne Illness](https://appalachiantrail.org/news-stories/tick-smart-trail-tips/)**
+
+*Appalachian Trail Conservancy*
+:::

@@ -12,6 +12,8 @@ website:
         text: Professional Summary
       - href: portfolio.qmd
         text: Portfolio
+      - href: publications.qmd
+        text: Publications        
 
 format:
   html:
