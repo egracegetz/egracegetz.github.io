@@ -1,5 +1,5 @@
 ---
-title: "Welcome!"
+title: ""
 format: html
 ---
 
@@ -9,23 +9,11 @@ format: html
 :::
 
 ::: {.intro-card style="flex: 1; padding: 1rem 1.5rem;"}
-<h2 style="font-size: 2rem; font-weight: bold; margin-bottom: 0.5rem; color: #9e1c57;">
+<h2 style="font-size: 2rem; font-weight: bold; margin: 0 0 0.5rem 0; color: #9e1c57;">Hi, I'm Emma!</h2>
 
-Hi, I'm Emma!
+<p style="margin: 0 0 0.5rem 0;">I recently graduated from Appalachian State University with a B.S. in Public Health and a minor in Statistics. My background is in program evaluation, data analysis, and outcomes reporting, with a focus on rural health initiatives. On this site, you'll find examples of my research, evaluation work, and professional experience.</p>
 
-</h2>
-
-<p style="margin-bottom: 0.5rem;">
-
-I recently graduated from Appalachian State University with a B.S. in Public Health and a minor in Statistics. My background is in program evaluation, data analysis, and outcomes reporting, with a focus on rural health initiatives. On this site, you'll find examples of my research, evaluation work, and professional experience.
-
-</p>
-
-<p style="margin-bottom: 0;">
-
-**→** <a href="about.qmd" style="color: #9e1c57; text-decoration: none;">Professional Summary</a><br> **→** <a href="portfolio.qmd" style="color: #9e1c57; text-decoration: none;">Portfolio</a><br> **→** <a href="publications.qmd" style="color: #9e1c57; text-decoration: none;">Publications</a><br> **→** <a href="Getz_CV_2026.pdf" style="color: #9e1c57; text-decoration: none;">My CV</a> 
-
-</p>
+<p style="margin: 0;">**→** <a href="about.qmd" style="color: #9e1c57; text-decoration: none;">Professional Summary</a><br> **→** <a href="portfolio.qmd" style="color: #9e1c57; text-decoration: none;">Portfolio</a><br> **→** <a href="publications.qmd" style="color: #9e1c57; text-decoration: none;">Publications</a><br> **→** <a href="Getz_CV_2026.pdf" style="color: #9e1c57; text-decoration: none;">My CV</a></p>
 :::
 :::::
 

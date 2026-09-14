@@ -13,7 +13,9 @@ website:
       - href: portfolio.qmd
         text: Portfolio
       - href: publications.qmd
-        text: Publications        
+        text: Publications   
+      - href: contact.qmd
+        text: Contact         
 
 format:
   html:

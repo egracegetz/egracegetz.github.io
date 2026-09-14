@@ -1,0 +1,22 @@
+---
+title: "Contact"
+format: html
+---
+
+::: {.feature-card style="max-width: 500px; margin: 2rem auto; text-align: center;"}
+
+## Let's Connect
+
+I'd love to hear from you — whether it's about an opportunity, a project, or just to chat about public health and data.
+
+<br>
+
+📧 **Email:** <a href="mailto:egracegetz@gmail.com" style="color: #9e1c57; text-decoration: none;">egracegetz@gmail.com</a>
+
+📞 **Phone:** (919) 749-4212
+
+💼 **LinkedIn:** <a href="https://www.linkedin.com/in/emma-getz-7aa30821b/" style="color: #9e1c57; text-decoration: none;" target="_blank">linkedin.com/in/emma-getz</a>
+
+📍 **Location:** Chapel Hill, NC
+
+:::

@@ -91,6 +91,20 @@
     "text": "Research Question 7: How does the maternal mortality rate over time in the United States compare to that of other highly developed countries?\n\nvery_high &lt;- maternalmortality_long %&gt;%\nfilter(Human.Development.Groups == \"Very High\")\n\nothers &lt;- very_high %&gt;% filter(Country != \"United States\") %&gt;%\ngroup_by(Year) %&gt;%\nsummarize(MMR = mean(MMR, na.rm = TRUE))\n\nggplot() +\ngeom_line(data = usa, aes(x = Year, y = MMR, color = \"United States\"), lwd = 1.2) +\ngeom_line(data = others, aes(x = Year, y = MMR, color = \"Very High HDI (Average)\"), lwd = 1.2) +\nscale_color_manual(values = c(\"United States\" = \"red\",\n\"Very High HDI (Average)\" = \"blue\")) +\nlabs(title = \"U.S. vs Other Highly Developed Countries\",\nx = \"Year\",\ny = \"MMR\",\ncolor = \"\")\n\n\n\n\n\n\n\n\nThis graph shows that the maternal mortality rate in the United States is very different from the MMR of other countries in the “Very High” human development group.\nThe red line representing the United States’ MMR shows a clear upward trend; starting at 11 in 1990 and ending at 19 in 2021. The blue line representing the other ‘Very High’ HDG countries shows a clear downward trend since 1990, starting at 28.5 in 1990 and ending at 14 in 2021.\nSo, in 2021, The U.S MMR is significantly higher than the MMR of other highly developed countries. The lines cross in the early 2010s, marking the point at which the U.S. maternal mortality rate surpasses that of other ‘Very High’ HDG countries. The different trends in the data are interesting and suggest that while other highly developed countries are improving their maternal health outcomes, the United States has been moving in the opposite direction."
   },
   {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "I’d love to hear from you — whether it’s about an opportunity, a project, or just to chat about public health and data.\n\n📧 Email: egracegetz@gmail.com\n📞 Phone: (919) 749-4212\n💼 LinkedIn: linkedin.com/in/emma-getz\n📍 Location: Chapel Hill, NC"
+  },
+  {
+    "objectID": "contact.html#lets-connect",
+    "href": "contact.html#lets-connect",
+    "title": "Contact",
+    "section": "",
+    "text": "I’d love to hear from you — whether it’s about an opportunity, a project, or just to chat about public health and data.\n\n📧 Email: egracegetz@gmail.com\n📞 Phone: (919) 749-4212\n💼 LinkedIn: linkedin.com/in/emma-getz\n📍 Location: Chapel Hill, NC"
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "Professional Summary",
@@ -107,14 +121,14 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Welcome!",
+    "title": "Emma Grace Getz",
     "section": "",
     "text": "I recently graduated from Appalachian State University with a B.S. in Public Health and a minor in Statistics. My background is in program evaluation, data analysis, and outcomes reporting, with a focus on rural health initiatives. On this site, you’ll find examples of my research, evaluation work, and professional experience.\n\n\n→ Professional Summary → Portfolio → Publications → My CV"
   },
   {
     "objectID": "index.html#featured-publications",
     "href": "index.html#featured-publications",
-    "title": "Welcome!",
+    "title": "Emma Grace Getz",
     "section": "Featured Publications",
     "text": "Featured Publications\n\n\nTick-Borne Disease Prevention in Long-Distance Appalachian Trail Hikers: A Health Belief Model Approach\n\nWilderness & Environmental Medicine\n\n\nExplores how long-distance Appalachian Trail hikers understand and practice tick-borne disease prevention, using the health belief model to examine the beliefs behind their behaviors.\n\n\nRead the paper →\n\n\n\nEco-anxiety, climate concern, and fatalistic outlooks: Insights from U.S. crisis text conversations on climate distress\n\nThe Journal of Climate Change and Health\n\n\nA qualitative analysis of U.S. crisis text conversations mentioning climate change, identifying common emotional responses and coping strategies tied to climate distress.\n\n\nRead the paper →\n\n\n\n\n\n\n\n\n\nI’d love to hear from you! egracegetz@gmail.com | LinkedIn"
   },
