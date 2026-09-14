@@ -7,9 +7,7 @@ format: html
 
 ## Let's Connect
 
-I'd love to hear from you — whether it's about an opportunity, a project, or just to chat about public health and data.
-
-<br>
+I'd love to hear from you! Find my contact information below.
 
 📧 **Email:** <a href="mailto:egracegetz@gmail.com" style="color: #9e1c57; text-decoration: none;">egracegetz@gmail.com</a>
 

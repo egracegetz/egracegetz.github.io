@@ -33,10 +33,3 @@ format: html
 -   [Maternal Health Intervention Plan - Maternal Exercise Program to Coosa County](coosa.pdf)
 -   [Evaluation Plan - Persons with Aphasia Training Dogs Program](patd.pdf)
 :::
-
-::: portfolio-card
-## Creative Endeavors
-
--   [My Small Business – Emmalinalino](https://www.instagram.com/emmalinalino/?hl=en)
--   [The Appalachian Portfolio – Graphics](https://theappalachianonline.com/staff_name/emma-getz/)
-:::

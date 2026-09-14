@@ -91,18 +91,25 @@
     "text": "Research Question 7: How does the maternal mortality rate over time in the United States compare to that of other highly developed countries?\n\nvery_high &lt;- maternalmortality_long %&gt;%\nfilter(Human.Development.Groups == \"Very High\")\n\nothers &lt;- very_high %&gt;% filter(Country != \"United States\") %&gt;%\ngroup_by(Year) %&gt;%\nsummarize(MMR = mean(MMR, na.rm = TRUE))\n\nggplot() +\ngeom_line(data = usa, aes(x = Year, y = MMR, color = \"United States\"), lwd = 1.2) +\ngeom_line(data = others, aes(x = Year, y = MMR, color = \"Very High HDI (Average)\"), lwd = 1.2) +\nscale_color_manual(values = c(\"United States\" = \"red\",\n\"Very High HDI (Average)\" = \"blue\")) +\nlabs(title = \"U.S. vs Other Highly Developed Countries\",\nx = \"Year\",\ny = \"MMR\",\ncolor = \"\")\n\n\n\n\n\n\n\n\nThis graph shows that the maternal mortality rate in the United States is very different from the MMR of other countries in the “Very High” human development group.\nThe red line representing the United States’ MMR shows a clear upward trend; starting at 11 in 1990 and ending at 19 in 2021. The blue line representing the other ‘Very High’ HDG countries shows a clear downward trend since 1990, starting at 28.5 in 1990 and ending at 14 in 2021.\nSo, in 2021, The U.S MMR is significantly higher than the MMR of other highly developed countries. The lines cross in the early 2010s, marking the point at which the U.S. maternal mortality rate surpasses that of other ‘Very High’ HDG countries. The different trends in the data are interesting and suggest that while other highly developed countries are improving their maternal health outcomes, the United States has been moving in the opposite direction."
   },
   {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact",
+    "objectID": "creative.html",
+    "href": "creative.html",
+    "title": "Creative Endeavors",
     "section": "",
-    "text": "I’d love to hear from you — whether it’s about an opportunity, a project, or just to chat about public health and data.\n\n📧 Email: egracegetz@gmail.com\n📞 Phone: (919) 749-4212\n💼 LinkedIn: linkedin.com/in/emma-getz\n📍 Location: Chapel Hill, NC"
+    "text": "I’ve always enjoyed creating art. Engaging in creative hobbies brings a lot of meaning to my life, and I’m always looking for new mediums and techniques to explore.\nDuring my undergraduate career, I found ways to bring this into my campus life, working with the graphics desk at The Appalachian, the university’s student newspaper, and running a small art business for a few years, vending at local art markets and regularly selling at the King Street Farmers Market.\n→ My Appalachian Portfolio → My Small Business Instagram"
   },
   {
-    "objectID": "contact.html#lets-connect",
-    "href": "contact.html#lets-connect",
-    "title": "Contact",
-    "section": "",
-    "text": "I’d love to hear from you — whether it’s about an opportunity, a project, or just to chat about public health and data.\n\n📧 Email: egracegetz@gmail.com\n📞 Phone: (919) 749-4212\n💼 LinkedIn: linkedin.com/in/emma-getz\n📍 Location: Chapel Hill, NC"
+    "objectID": "creative.html#printmaking",
+    "href": "creative.html#printmaking",
+    "title": "Creative Endeavors",
+    "section": "Printmaking",
+    "text": "Printmaking\nI got into relief printmaking, carving designs into rubber or linoleum and printing them with ink onto paper or fabric. It’s a medium that leaves a lot of room for experimentation, and I especially enjoy making greeting cards, posters, and small prints."
+  },
+  {
+    "objectID": "creative.html#fiber-arts",
+    "href": "creative.html#fiber-arts",
+    "title": "Creative Endeavors",
+    "section": "Fiber Arts",
+    "text": "Fiber Arts\nMore recently, I’ve become interested in fiber arts, particularly sewing and needlepoint. I typically sew functional pieces like bags, and occasionally clothing, while my needlepoint work often draws inspiration from scenes I’ve come across in nature."
   },
   {
     "objectID": "about.html",
@@ -117,6 +124,20 @@
     "title": "Professional Summary",
     "section": "Academic and Professional Highlights:",
     "text": "Academic and Professional Highlights:\n\n\nCecil G. Sheps Center for Health Services Research: Research Assistant, NC-BELL\nAs a Research Assistant with the NC Behavioral Health Evaluation and Learning Lab (NC-BELL), I supported a state-funded initiative evaluating crisis and child behavioral health systems in North Carolina. I conducted literature reviews on crisis services, behavioral health, and psychiatric hospitalizations to inform study design, and compiled data on NC crisis service providers by integrating multiple secondary data sources. I also developed data collection guides and documentation protocols to support reproducibility, and authored summary reports presenting findings to state-level stakeholders.\n\n\n\n\n\n\n\nPublic Health Departmental Honors Program: Honors Thesis\nFor my Honors thesis, I researched tick-borne illness prevention among long-distance Appalachian Trail hikers. This project involved designing a study from the ground up, including developing a survey, analyzing data, and authoring a formal manuscript. I established a professional partnership with the Appalachian Trail Conservancy, led two presentations on tick-borne illness at their Damascus Trail Center, and contributed a blog post on tick safety for their website. This experience combined my research interests with practical application, culminating in the successful defense of my thesis and publication in Wilderness and Environmental Medicine. Read the paper here.\n\n\n\n\n\n\n\nPublic Health AmeriCorps Fellowship: Evaluation Team Lead and Lead Fellow\nAs evaluation team lead, I guided a team evaluating a public health intervention focused on rural mental health and analyzed program data to assess outcomes. This role strengthened my applied public health skills, data analysis expertise, and leadership abilities. Additionally, I authored an abstract based on our evaluation, presented the findings at the 2025 NC Data Summit, and attended the 2025 NACCHO Prep Summit.\nIn my second fellowship year, I served as Lead Fellow, coordinating program logistics across multiple concurrent professional development initiatives for AmeriCorps members. I organized programming, including career panels, resume workshops, and skill-building trainings, to strengthen fellows’ job readiness. I also managed conference participation and presentation logistics for the cohort. I also designed and executed a recruitment and outreach strategy, including promotional materials and stakeholder events, to expand the program’s visibility across rural communities.\n\n\n\n\n\n\n\nMaineHealth Institute for Research: Research Intern\nDuring the Summer Undergraduate Research Program, I collaborated with Dr. Kahsi Pedersen on a project characterizing profound autism within specialized inpatient psychiatric facilities. My responsibilities included analyzing data from a 15-year study, utilizing data visualization techniques, authoring a manuscript for peer-reviewed publication, and presenting findings through a poster and a 3-Minute Thesis presentation. In this role, I learned about clinical research skills and strengthened my data analysis techniques. I was honored to receive the Paul Gray Research Scholarship to support this work.\n\n\n\n\n\n\n\nAppHealthCare: YRBS Volunteer\nVolunteering with AppHealthCare, I analyzed Youth Risk Behavior Survey data from six local schools, identifying patterns in youth risk behaviors across Western North Carolina. We created visualizations and summary reports for local stakeholders, using data to inform public health strategies and support community decision-making.\n\n\n\n\n\n\n\nResearch Institute for Environment, Energy, and Economics: Research Assistantship\nAs a Research Assistant at Appalachian State University’s Research Institute for Environment, Energy, and Economics I collaborated with a team to analyze crisis text conversations, focusing on themes of eco-anxiety and climate worry. Through thematic analysis, I contributed to identifying and interpreting patterns in these critical discussions, providing insights into the mental health impacts of environmental concerns. I contributed to a formal manuscript based on this work titled “Eco-Anxiety, Climate Concern, and Fatalistic Outlooks: Insights from U.S. Crisis Text Conversations on Climate Distress” which is currently published in the Journal of Climate Change and Health. Check out this article about our work!"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "I’d love to hear from you! Find my contact information below.\n📧 Email: egracegetz@gmail.com\n📞 Phone: (919) 749-4212\n💼 LinkedIn: linkedin.com/in/emma-getz\n📍 Location: Chapel Hill, NC"
+  },
+  {
+    "objectID": "contact.html#lets-connect",
+    "href": "contact.html#lets-connect",
+    "title": "Contact",
+    "section": "",
+    "text": "I’d love to hear from you! Find my contact information below.\n📧 Email: egracegetz@gmail.com\n📞 Phone: (919) 749-4212\n💼 LinkedIn: linkedin.com/in/emma-getz\n📍 Location: Chapel Hill, NC"
   },
   {
     "objectID": "index.html",
@@ -152,12 +173,5 @@
     "title": "Portfolio",
     "section": "Applied Public Health Work",
     "text": "Applied Public Health Work\n\nAfter Action Report Outline for Hurricane Helene in Western NC\nHomelessness Calendar - Hospitality House\nMaternal Health Intervention Plan - Maternal Exercise Program to Coosa County\nEvaluation Plan - Persons with Aphasia Training Dogs Program"
-  },
-  {
-    "objectID": "portfolio.html#creative-endeavors",
-    "href": "portfolio.html#creative-endeavors",
-    "title": "Portfolio",
-    "section": "Creative Endeavors",
-    "text": "Creative Endeavors\n\nMy Small Business – Emmalinalino\nThe Appalachian Portfolio – Graphics"
   }
 ]
