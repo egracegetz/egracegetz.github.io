@@ -23,7 +23,7 @@ I recently graduated from Appalachian State University with a B.S. in Public Hea
 
 <p style="margin-bottom: 0;">
 
-**→** <a href="about.qmd" style="color: #9e1c57; text-decoration: none;">Professional Summary</a><br> **→** <a href="portfolio.qmd" style="color: #9e1c57; text-decoration: none;">Portfolio</a><br> **→** <a href="cv.pdf" style="color: #9e1c57; text-decoration: none;">My CV</a>
+**→** <a href="about.qmd" style="color: #9e1c57; text-decoration: none;">Professional Summary</a><br> **→** <a href="portfolio.qmd" style="color: #9e1c57; text-decoration: none;">Portfolio</a><br> **→** <a href="Getz_CV_2026.pdf" style="color: #9e1c57; text-decoration: none;">My CV</a>
 
 </p>
 :::
@@ -31,25 +31,27 @@ I recently graduated from Appalachian State University with a B.S. in Public Hea
 
 ------------------------------------------------------------------------
 
-## What I’m Interested In
+## Featured Publications
 
 :::::: {style="display: flex; gap: 1rem; flex-wrap: wrap;"}
-::: {.feature-card style="flex: 1; min-width: 200px;"}
-**Biostatistics**\
+::: {.feature-card style="flex: 1; min-width: 250px;"}
+**[Tick-Borne Disease Prevention in Long-Distance Appalachian Trail Hikers: A Health Belief Model Approach](https://pubmed.ncbi.nlm.nih.gov/42334346/)**
 
-<p>Statistical methods for intervention evaluation, structural equation modeling, and data for public health decisions.</p>
+<p><em>Wilderness & Environmental Medicine</em></p>
+
+<p>Explores how long-distance Appalachian Trail hikers understand and practice tick-borne disease prevention, using the health belief model to examine the beliefs behind their behaviors.</p>
+
+<p>[Read the paper →](https://pubmed.ncbi.nlm.nih.gov/42334346/)</p>
 :::
 
-::: {.feature-card style="flex: 1; min-width: 200px;"}
-**Health Behavior**\
+::: {.feature-card style="flex: 1; min-width: 250px;"}
+**[Eco-anxiety, climate concern, and fatalistic outlooks: Insights from U.S. crisis text conversations on climate distress](https://pubmed.ncbi.nlm.nih.gov/40452860/)**
 
-<p>Understanding how people make health decisions and how to support healthier choices.</p>
-:::
+<p><em>The Journal of Climate Change and Health</em></p>
 
-::: {.feature-card style="flex: 1; min-width: 200px;"}
-**Rural Health**\
+<p>A qualitative analysis of U.S. crisis text conversations mentioning climate change, identifying common emotional responses and coping strategies tied to climate distress.</p>
 
-<p>Addressing health disparities and using innovative technology to expand healthcare access.</p>
+<p>[Read the paper →](https://pubmed.ncbi.nlm.nih.gov/40452860/)</p>
 :::
 ::::::
 
