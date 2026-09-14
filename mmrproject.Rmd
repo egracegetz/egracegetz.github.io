@@ -67,7 +67,6 @@ header = TRUE,
 stringsAsFactors = FALSE)
 ```
 
-
 # Data Structure and Variables
 
 Let’s take a look at the dataset.
@@ -81,23 +80,23 @@ The `maternalmortality` dataframe contains 39 variables (columns) and 195 observ
 
 The 39 variables are:
 
-1. 'ISO3': The three-letter country code from [ISO 3166](https://www.iso.org/iso-3166-country-codes.html), the international standard for country codes.
+1.  'ISO3': The three-letter country code from [ISO 3166](https://www.iso.org/iso-3166-country-codes.html), the international standard for country codes.
 
-2. `Country`: The name of the Country/Territory.
+2.  `Country`: The name of the Country/Territory.
 
-3. `Continent`: The Continent where the Country/Territory is located.
+3.  `Continent`: The Continent where the Country/Territory is located.
 
-4. `Hemisphere`: The Hemisphere (Northern or Southern) where the Country/Territory is located.
+4.  `Hemisphere`: The Hemisphere (Northern or Southern) where the Country/Territory is located.
 
-5. `Human.Development.Groups`: The [Human Development Index (HDI)](https://worldpopulationreview.com/country-rankings/hdi-by-country) is a measure compiled by the United Nations Development Programme to assess a country’s average achievements in health, education, and standard of living. In this dataset, countries are categorized into four tiers based on their HDI: Very High, High, Medium, and Low.
+5.  `Human.Development.Groups`: The [Human Development Index (HDI)](https://worldpopulationreview.com/country-rankings/hdi-by-country) is a measure compiled by the United Nations Development Programme to assess a country’s average achievements in health, education, and standard of living. In this dataset, countries are categorized into four tiers based on their HDI: Very High, High, Medium, and Low.
 
-6. `UNDP.Developing.Regions`: The classification of countries into developing regions by the [United Nations Development Programme (UNDP)](https://www.undp.org/). These regions include East Asia and Pacific (EAP), Europe and Central Asia (ECA), Latin America and the Caribbean (LAC), Middle East and North Africa (MNA), South Asia (SAS), and Sub-Saharan Africa (SSA).
+6.  `UNDP.Developing.Regions`: The classification of countries into developing regions by the [United Nations Development Programme (UNDP)](https://www.undp.org/). These regions include East Asia and Pacific (EAP), Europe and Central Asia (ECA), Latin America and the Caribbean (LAC), Middle East and North Africa (MNA), South Asia (SAS), and Sub-Saharan Africa (SSA).
 
-7. `HDI.Rank..2021`: The ranking of countries based on their [Human Development Index (HDI)](https://hdr.undp.org/data-center/human-development-index#/indicies/HDI) values, with 1 being the highest-ranked country. This rank reflects a country’s relative position in terms of human development compared to others.
+7.  `HDI.Rank..2021`: The ranking of countries based on their [Human Development Index (HDI)](https://hdr.undp.org/data-center/human-development-index#/indicies/HDI) values, with 1 being the highest-ranked country. This rank reflects a country’s relative position in terms of human development compared to others.
 
-8. `Maternal.Mortality.Ratio..deaths.per.100.000.live.births...1990`: The maternal mortality ratio (MMR) in 1990, measured as the number of maternal deaths per 100,000 live births.
+8.  `Maternal.Mortality.Ratio..deaths.per.100.000.live.births...1990`: The maternal mortality ratio (MMR) in 1990, measured as the number of maternal deaths per 100,000 live births.
 
-9. `Maternal.Mortality.Ratio..deaths.per.100.000.live.births...1991`: The maternal mortality ratio (MMR) in 1991, measured as the number of maternal deaths per 100,000 live births.
+9.  `Maternal.Mortality.Ratio..deaths.per.100.000.live.births...1991`: The maternal mortality ratio (MMR) in 1991, measured as the number of maternal deaths per 100,000 live births.
 
 10. `Maternal.Mortality.Ratio..deaths.per.100.000.live.births...1992`: The maternal mortality ratio (MMR) in 1992, measured as the number of maternal deaths per 100,000 live births.
 
@@ -253,7 +252,7 @@ maternalmortality_long <- maternalmortality_long %>%
   mutate(Year = as.numeric(str_extract(Year, "\\d{4}")))
 ```
 
-Let's view the restructured dataframe. 
+Let's view the restructured dataframe.
 
 ```{r}
 glimpse(maternalmortality_long)
@@ -420,14 +419,14 @@ Overall, this analysis provides crucial insight into the state of maternal healt
 
 # References
 
-https://argoshare.is.ed.ac.uk/healthyr_book/reshaping-data-long-vs-wide-format.html
+<https://argoshare.is.ed.ac.uk/healthyr_book/reshaping-data-long-vs-wide-format.html>
 
-https://www.who.int/news-room/fact-sheets/detail/maternal-mortality
+<https://www.who.int/news-room/fact-sheets/detail/maternal-mortality>
 
-https://www.iso.org/iso-3166-country-codes.html
+<https://www.iso.org/iso-3166-country-codes.html>
 
-https://worldpopulationreview.com/country-rankings/hdi-by-country
+<https://worldpopulationreview.com/country-rankings/hdi-by-country>
 
-https://www.undp.org/
+<https://www.undp.org/>
 
-https://hdr.undp.org/data-center/human-development-index#/indicies/HDI
+<https://hdr.undp.org/data-center/human-development-index#/indicies/HDI>
